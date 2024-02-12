@@ -1,0 +1,8 @@
+UpdateCTestConfiguration  from :/home/ayesha/projects/CSC232/scripts/lab03-Ayesha6026/cmake-build-debug/DartConfiguration.tcl
+UpdateCTestConfiguration  from :/home/ayesha/projects/CSC232/scripts/lab03-Ayesha6026/cmake-build-debug/DartConfiguration.tcl
+Test project /home/ayesha/projects/CSC232/scripts/lab03-Ayesha6026/cmake-build-debug
+Constructing a list of tests
+Updating test list for fixtures
+Added 0 tests to meet fixture requirements
+Checking test dependency graph...
+Checking test dependency graph end
